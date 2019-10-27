@@ -22,7 +22,7 @@
   <li>maas tamsayı türünde</li>
   <h2>Default.aspx sayfası</h2>
   <li>Bu sayfada personel ekleme,arama,güncelleme,silme işlemi ve aldığı maasların görüntülenmesi bağlantılarını barındırır.</li>
-  <h2>maasVEr.aspx sayfası<h2>
+  <h2>maasVer.aspx sayfası</h2>
    <li>Bu sayfada anasayfadan seçilen personelin aldığı maaşların bilgilerinin aranması,silinmesi,güncellenmesi ve eklenmesi işlemleri gerçekleştirilir.</li>
     </ul>
     
