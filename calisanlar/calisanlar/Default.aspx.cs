@@ -108,9 +108,15 @@ namespace calisanlar
 			komut=new OleDbCommand("delete from personel where sicilNo="+id+"");
 			komut.Connection=baglan;
 			int l=komut.ExecuteNonQuery();
-			if(l==1){
-				Response.Write("<script>alert('silme işlemi başarılı!');</script>");
-				Response.Redirect("default.aspx");
+			if(l==1)
+				Response.Write("\nPersonel silindi!");
+				
+			komut=new OleDbCommand("delete from maaslar where sicilNo="+id+"");
+			komut.Connection=baglan;
+			l=komut.ExecuteNonQuery();
+			if(l>=0){
+				Response.Write("\n"+l+" tane maaşı da silindi!");
+				Response.AddHeader("REFRESH","1.1;default.aspx");
 			}
 		}
 		#endregion
