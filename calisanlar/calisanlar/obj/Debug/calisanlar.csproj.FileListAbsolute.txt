@@ -1,0 +1,5 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\calisanlar\calisanlar\bin\calisanlar.dll
+C:\Users\Asus\Documents\SharpDevelop Projects\calisanlar\calisanlar\bin\calisanlar.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\calisanlar\calisanlar\obj\Debug\calisanlar.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\SharpDevelop Projects\calisanlar\calisanlar\obj\Debug\calisanlar.dll
+C:\Users\Asus\Documents\SharpDevelop Projects\calisanlar\calisanlar\obj\Debug\calisanlar.pdb

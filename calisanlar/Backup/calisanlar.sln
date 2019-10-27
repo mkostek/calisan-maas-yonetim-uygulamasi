@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calisanlar", "calisanlar\calisanlar.csproj", "{27F88FF1-9FBE-4ED7-A736-91CDC6954732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F88FF1-9FBE-4ED7-A736-91CDC6954732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F88FF1-9FBE-4ED7-A736-91CDC6954732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F88FF1-9FBE-4ED7-A736-91CDC6954732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27F88FF1-9FBE-4ED7-A736-91CDC6954732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

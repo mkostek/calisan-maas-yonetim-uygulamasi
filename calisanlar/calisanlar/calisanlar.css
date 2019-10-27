@@ -1,0 +1,84 @@
+﻿/*----------------------------------------------*/
+BODY
+{	font-family: Verdana, Arial;
+	font-weight: normal;
+	font-size:   13px;
+	color:		 Black;
+	background-color: #F0F0F0;
+}
+
+/*----------------------------------------------*/
+TABLE
+{	font-size:		 13px;
+	background-color: #055500;
+	border-width:	 2px;
+	border-color:     #000000;
+	border-collapse: collapse;
+	margin: 0;
+}
+/*----------------------------------------------*/
+TD
+{	background-color: #FFFFFF;
+	border-color:	  #F555000;
+	border-width:	  2px;
+	padding: 		  4;
+	margin:  		  3;
+}
+TH
+{	background-color: #FF0000;
+	border-color:	  #FF0000;
+	border-width:	  2px;
+	padding: 		  4;
+	margin:  		  3;
+}
+/*----------------------------------------------*/
+DIV
+{	width:120px;
+	height:120px;
+	border:solid 1px black;
+	padding:8px;
+	background-color:#F0F0FF;
+}
+Div.aspNetHidden{
+width:0px;
+	height:0px;
+	border:solid 0px black;
+	padding:1px;
+	background-color:#F0F0FF;
+}
+/*----------------------------------------------*/
+SELECT
+{	font-family: Verdana;
+	font-weight: normal;
+	font-size:   13px;
+	color:		  #080619;
+	background-color: #FFFFFF;
+}
+/*----------------------------------------------*/
+INPUT
+{	font-family: Verdana;
+	font-weight: normal;
+	font-size:   13px;
+	color:		  #000000;
+}
+/*----------------------------------------------*/
+TEXTAREA
+{	font-family: Verdana;
+	font-weight: normal;
+	font-size:   13px;
+	color:		  #000000;
+	background-color: #FFFFFF;
+}
+/*----------------------------------------------*/
+A
+{	FONT-WEIGHT: 	 normal;
+	COLOR:		 	 #004080;
+	font-style:	 	 normal;
+	text-decoration: none;
+}
+
+A:hover
+{	FONT-WEIGHT: bold;
+	COLOR: 		 #FF5357;
+}
+/*----------------------------------------------*/
